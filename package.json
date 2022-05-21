@@ -1,0 +1,14 @@
+{
+  "name": "fraction-calculator",
+  "version": "1.0.0",
+  "description": "Command-line program take operations on fractions as an input and produce a fractional result",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Jhonmer Araujo",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
